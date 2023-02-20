@@ -1,3 +1,3 @@
 # projeto-aluraplus
 
-#Projeto criado para a pratica de html/css
+Projeto criado para a pratica de html/css
